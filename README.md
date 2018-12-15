@@ -3,7 +3,9 @@
 Using Alexa Skills Kit, we can create compelling, hands-free voice experiences by adding our skills to Alexa. Users can access these capabilities on any Alexa-enabled device by merely asking Alexa a question.
 
 ### Architecture
-![Image of Architecture](https://github.com/davidjegan/Alexa-AWS-Serverless-Voicebot/blob/master/Architecture/aws_alexa.png)
+![Image of Architecture](https://github.com/davidjegan/Alexa-zappa-based-serverless-bot/blob/master/Architecture/aws_alexa.png)
+
+
 
 
 ### Explanation
@@ -49,7 +51,7 @@ The user interacts with the Alexa device to trigger the skill set. This customiz
 * The adoption of naive and niche technology is required to keep pace with the growing technology
 
 ### Services 
-![Image of Architecture](https://github.com/davidjegan/Alexa-AWS-Serverless-Voicebot/blob/master/Architecture/services.jpg)
+![Image of Architecture](https://github.com/davidjegan/Alexa-zappa-based-serverless-bot/blob/master/Architecture/services.jpg)
 
 ### Advantages
 1. Increased customer satisfaction 
